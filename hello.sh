@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "hello hotfix"
+echo "hello hotfix master"
 echo "hello jyl"
